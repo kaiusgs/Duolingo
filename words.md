@@ -267,6 +267,15 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 同情 | | sympathize |
 | 铺平道路 | | pave the way |
 | 蹲 | | crouch |
+| commence | | 开始，着手 |
+| assimilate | | absorb |
+| tend to do / more inclined to do | | exhibit a significantly higher propensity for doing something |
+| is the best way to do | | offers the most propitious to doing |
+| ideally | | 理想地 |
+| learning | | acquisition |
+| detract | | 影响,转移,使分心 |
+| salient | | 突出的 |
+| 剧烈下降 | | decrease drastically |
 |  | |  |
 |  | |  |
 |  | |  |
@@ -278,8 +287,11 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 2. 齐头式：段首不缩进，段落间隔一空行
 ## 互动听力总结 
 - sought the sincere counsel 
-- erudite mentor 博学的导师
+- erudite mentor 博学的导师 
 - classmate with ethusiasum and expertise
+## 作文开头
+- It is incontrovertible that  无可争议地, ...
+- The primary impetus for this perspective stems from ...
 
 # 口语
 ## 个人经历类：人设
