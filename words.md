@@ -270,13 +270,22 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | commence | | 开始，着手 |
 | assimilate | | absorb |
 | tend to do / more inclined to do | | exhibit a significantly higher propensity for doing something |
-| is the best way to do | | offers the most propitious to doing |
+| is the best way to do | | offers the most propitious path to doing |
 | ideally | | 理想地 |
 | learning | | acquisition |
 | detract | | 影响,转移,使分心 |
 | salient | | 突出的 |
 | 剧烈下降 | | decrease drastically |
-|  | |  |
+| colony | | 殖民地 |
+| 小丑 | | clown |
+| 扫帚 | | broom |
+| 棚子, 罩棚 | | canopy |
+| insomnia | | 失眠 |
+| fuss | | 小题大做,大惊小怪 |
+| vinegar | | 醋 |
+| glue | | 胶水,粘在 |
+| 刺入 | | pierce |
+| 打入市场 | | penetrate the market |
 |  | |  |
 |  | |  |
 
@@ -294,6 +303,12 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - The primary impetus for this perspective stems from ...
 
 # 口语
+## 练习方式
+1. 口语稿
+2. 修改
+3. 复述
+4. 限时即兴表达
+
 ## 个人经历类：人设
 
 I'd like to talk about
