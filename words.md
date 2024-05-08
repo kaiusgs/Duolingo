@@ -286,6 +286,14 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | glue | | 胶水,粘在 |
 | 刺入 | | pierce |
 | 打入市场 | | penetrate the market |
+| 接近, 靠近 n. | | proximity |
+| 拉伸 | | stretch |
+| 纪念碑 | |  |
+| 汗水 | | sweat |
+| treadmill | | 跑步机 |
+| cleanse | | 净化 |
+| 隔间 | | compartment |
+|  | |  |
 |  | |  |
 |  | |  |
 
