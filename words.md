@@ -293,6 +293,17 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | treadmill | | 跑步机 |
 | cleanse | | 净化 |
 | 隔间 | | compartment |
+| anticipate | | 预期,预见 |
+| 草坪，草地 | | lawn |
+| timid | | 胆小的,羞怯的 |
+| neutral | | 中立的,中立国 |
+| 毛巾 | | towel |
+| 大胆地 | | boldly |
+| sew | | 缝 |
+| acre | | 英亩 |
+| 溶解 | | dissolve |
+| tangible | | 明确的,可触摸的 |
+|  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
