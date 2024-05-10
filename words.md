@@ -16,7 +16,8 @@
 Their characters(widely open mouth and sharp teeth)/some other matters are accentuated/highlighted by the contrasting harmonious and tranquil background surrounding them.
 2. 罗列型：Additionally, A, B, C work together harmoniously / form a backdrop / provide a gentle backdrop.  
 The <u>foreground/mid-ground/background elements</u> work together harmoniously, evoking a sense of <u>vibrancy/prosperity</u> / creating an ambience of intensity.
-3. 无事物：It seems that -> I speculate that / It is probable that
+3. The setting in which the <u>subjects</u> are placed provides context for their action. givinh insight into their lifestyle /situation.
+4.  无事物：It seems that -> I speculate that / It is probable that
 
 ## 归纳句
 - creating a humorous and adorable tableau agianst the backdrop of something.
@@ -45,6 +46,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - maroon 红褐色
 - camel brown 驼棕色
 - khaki 卡其色
+- beige 米色
 - moss green 苔绿色 (emerald green 鲜绿色/翠绿)
 - dark green 碧绿
 - aquamarine blue 蓝绿
@@ -64,7 +66,13 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - plagued with smoke 烟雾弥漫
 - strewn with litter 布满垃圾
 - The street is lined with trees 一排行道树
+- lush green grass and blooming flowers / vibrant wildflowers
+- The sun is a golden orb casting its warm glow over the landscape. 
+- The clouds are like soft cotton balls.
 - Entering the gate, you will be immediately impressed by the vast open water, which is really relaxing/unwinding/enjoyable. Walking along the path, you will see sun-blocking trees and rolling green fields, which is truely picturesque.
+- The garden is bathed in warm sunlight, with a clear blue sky overhead.
+- The vibrant colors of the flowers create a chillful and lively atmosphere, while the lovely puppy's playful antics bring a sense of joy and happiness to the scene.
+- The overall feeling of this scene is one of tranquility and harmony with nature.
 
 ## 人物情绪
 - calm -> composure沉稳的
@@ -99,6 +107,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - accessory 饰品
 - slippers 拖鞋
 - boots 靴子
+- The body language of the people in this picture conveys ..., adding to the overall ... of the picture.
 
 ## 人物面部
 - bald 秃
@@ -248,7 +257,6 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 发挥作用 | | exert effect |
 | 忙于 | | get so caught up in doing sth |
 | 行使权利去投票 | | exercise the right to vote |
-| 郁郁葱葱的草地 | | lush green grass |
 | 卖冰淇淋饮料和矿泉水的摊位 | | stall selling ice-cream, beverages as well as mineral water |
 | 行人 | | pedestrain |
 | 斑马线 | | zebra crossing |
@@ -295,6 +303,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 隔间 | | compartment |
 | anticipate | | 预期,预见 |
 | 草坪，草地 | | lawn |
+| 阳光照射的草地 | | sunlit meadow |
 | timid | | 胆小的,羞怯的 |
 | neutral | | 中立的,中立国 |
 | 毛巾 | | towel |
@@ -303,6 +312,32 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | acre | | 英亩 |
 | 溶解 | | dissolve |
 | tangible | | 明确的,可触摸的 |
+| 夸张 | | exaggerate |
+| 打盹 | | take a nap |
+| 引人思考,发人深思 | | thought-provoking |
+| plaza | | 广场 |
+| 华丽的喷泉 | | ornate fountain |
+| evoke a sense of nostalgia | | 唤起怀旧之情 |
+| 瀑布 | | cascading waterfall |
+| 沿海悬崖 | | coastal cliffs |
+| elaborate mask | | (详尽阐述,精心制作) 精心制作的面具 |
+| indulgent | |  |
+| 美味的开胃菜 | | gourmet appetizers |
+| 刺激味蕾 | | tantalize the taste buds |
+| 交际交谈 | | mingling and conversing |
+| 池塘 | | pond |
+| 伪装 | | camouflage / disguise |
+| edible | | 可食用的 |
+| 芳香的 | | fragrant |
+| 干杯,敬酒 | | toast |
+| roast | | 烤 |
+| plush | | luxurious |
+| antique | | 古董 |
+| 书架 | | bookshelf |
+| 光滑的 | | sleek |
+| versatile | | 多功能的,多才多艺的 |
+| ample | | 充裕的,宽敞的 |
+|  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
