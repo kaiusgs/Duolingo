@@ -88,6 +88,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 ## 人物整体
 - tallish / shortlish
 - skinny  slender(苗条slim and tall)  medium-built  plump 丰满的  well-built  overweight   fat(带贬义)
+- 苗条的身材 slender figure
 - board-shouldered
 - newly-born baby / infant  toddler  preschooler  adolescent  teenager  youth  old man -> elderly / senior 长者
 - during adolescence 
@@ -276,7 +277,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 铺平道路 | | pave the way |
 | 蹲 | | crouch |
 | commence | | 开始，着手 |
-| assimilate | | absorb |
+| assimilate | | absorb, 融入,同化 |
 | tend to do / more inclined to do | | exhibit a significantly higher propensity for doing something |
 | is the best way to do | | offers the most propitious path to doing |
 | ideally | | 理想地 |
@@ -296,7 +297,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 打入市场 | | penetrate the market |
 | 接近, 靠近 n. | | proximity |
 | 拉伸 | | stretch |
-| 纪念碑 | |  |
+| memorial | | 纪念碑,纪念馆 |
 | 汗水 | | sweat |
 | treadmill | | 跑步机 |
 | cleanse | | 净化 |
@@ -321,7 +322,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 瀑布 | | cascading waterfall |
 | 沿海悬崖 | | coastal cliffs |
 | elaborate mask | | (详尽阐述,精心制作) 精心制作的面具 |
-| indulgent | |  |
+| indulgent | | 放纵的 |
 | 美味的开胃菜 | | gourmet appetizers |
 | 刺激味蕾 | | tantalize the taste buds |
 | 交际交谈 | | mingling and conversing |
@@ -337,24 +338,40 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 光滑的 | | sleek |
 | versatile | | 多功能的,多才多艺的 |
 | ample | | 充裕的,宽敞的 |
+| 开朗轻快的 | | cheerful and light-hearted |
+| 灯火通明的 | | brightly lit |
+| 报刊亭 | | kiosk |
+| prestige | | 声望 |
+| 面对 | | be confronted with |
+| 灵感 / 汗水 | | inspiration / perspiration  |
+| thrilled | | 兴奋,激动的 |
+| refresh | | rejuvenate |
+| 乏味的例行公事 | | dull routine |
+| imitate | | 模仿 |
+| conducive | | beneficial |
+| 业余选手 | | amateur |
+| 便携的,可移植的 | | portable |
+| 电子产品 | | electronic gadget |
+| 简洁性 | | brevity |
+| 普遍的 | | pervasive |
+| 企业家 | | entrepreneur |
+| 有口才的,雄辩的 | | eloquent |
+| 反复无常的,任性的 | | capricious wayward |
+| 慷慨 | | generosity |
+| 足智多谋的 | | resourceful |
+| 克服拖延症 | | overcome procrastination |
+| endeavor | | 努力 |
+| 品牌形象和市场竞争力 | | brand image and market competitiveness |
+| ethics | | morality |
+| commitment fulfillment ability | | 履行承诺的能力 |
+| 新陈代谢 | | metabolism |
+| 过多的 | | excessive |
 |  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
 
-
-# 作文
-## 格式
-1. 缩进式：段首行缩进4空格
-2. 齐头式：段首不缩进，段落间隔一空行
-## 互动听力总结 
-- sought the sincere counsel 
-- erudite mentor 博学的导师 
-- classmate with ethusiasum and expertise
-## 作文开头
-- It is incontrovertible that  无可争议地, ...
-- The primary impetus for this perspective stems from ...
 
 # 口语
 ## 练习方式
@@ -383,6 +400,8 @@ The reason why I lied is I need a temporary escape badly.
 
 release my pressure  
 
+## 个人经历类：留学
+
 ## 现象解释类  
 I'm not exactly sure about ...  
 - 分类描述
@@ -399,5 +418,62 @@ There are numerous ... . I'd like to talk about a specific one related with
 - 外貌 / 思想
 - 钱 / 时间  
 Pamper yourself with your partner/friends.
+
+
+# 作文
+
+## 格式
+1. 缩进式：段首行缩进4空格
+2. 齐头式：段首不缩进，段落间隔一空行
+
+## 互动听力总结 
+- sought the sincere counsel 
+- erudite mentor 博学的导师 
+- classmate with ethusiasum and expertise
+
+## 作文开头
+- It is incontrovertible that  无可争议地, ...
+- The primary impetus for this perspective stems from ...
+
+## 优缺点 
+- As the proverb goes: "Every coin has two sides."
+- advantages and disadvantages 
+- merits and demerits
+- benefits and shortcomings/drawbacks
+- On the one hand, ... While on the other hand, its shortcomings should not be neglected / ignored...
+- In brief, there are both benefits and shortcomings of ... 
+### Being a Leader  
+- pros
+    - Being a leader means an individual should undertake more responsibility and simultaneously receive more prestage/fame.  
+    - A competent/qualified leader should poccess the capability of solving different kinds of issues independently, that is to say leaders have to master a wide range of knowledge such as executive management, communication skills as well as judgement.  
+- cons 
+    - They are confronted with fierce competition and work under great pressure, so they have to spend too much time and energy on their job and they cannot spare enough time for their family.
+### 运动 
+- pros  
+    - Physical exercises can improve blood circulation, speeding up the supply of nutrients and oxygen to every part of the body and the removal of waste from the blood through sweating and exhalation. 
+    - Physical exercises can promote healthy metabolism. It helps with the digestion and absorption of food, thus giving the exerciser a good eppetite. 
+    - Physical exercises can help consume excessive fat in the body, preventing people from putting on too much weight. thue keeping them in good shape.
+    - After physical exercises we usually need a good rest and a sound sleep at night, refreshing us for the following day's work.
+### 阅读
+- pros
+    - Reading for wisdom, just like exercise to the body. 
+    - The more we read, the more that we found we are ignorant.
+    - As Francis Becon said: "Reading makes a full man." Reading can make people more fulfilling, rich and knowledgeable, so that people can train their minds and improve their realm.
+    - Reading can cultivate sentiment. When life is frustrated or need help, reading will make the mood suddenly open and make people feel excited/thrilled.
+    - Reading can improve people's concentration, make it easier to concentrate on one thing and keep the brain sharp.
+    - Reading can make people relieve stress, thus calming their minds.
+    - Reading can improve one' memory and help to prevent mental decline.
+    - Reading can enlarge people's vocabulary and improve writing skills as well.
+### 旅游
+- pros 
+    - 
+
+
+
+## 人物
+- don't put off things until tomorrow what should be done today.
+### politician 邓小平
+### 古代：秦始皇
+- 古迹
 
 
