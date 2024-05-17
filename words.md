@@ -1,40 +1,3 @@
-# 看图写作
-## 起始句
-1. (Taken on the stage / in the wild,) The intriguing/fantastic/striking photograph/picture/image (vividly) captures/depicts/features
-    - a. 主体
-        - i. somebody / animals
-        - ii. the essence/theme of something, showcasing its modernization (unique character).
-    - b. 环境 (+动作)
-        - i. in a picturesque forest where they are doing something.
-        - ii. surrounded by rural scenery / with the contrasting background of A, B.
-2. Within the picture, a perspective/landscape/vista of somebody is doing something is captured/caught, where it is possible to identify/notice A, B, C. 
-3. In this illustration, a glimpse of <u>a car on fire</u> is conspicuous 显眼的, making it feasible to recognize/detect <u>A, B, C(smog that is plagued everywhere, the thriving trees in the background and an ivory white car on the road)</u>, which envokes <u>the attention of road safety</u>.
-4. The focal point of this picture is <u>serveral peoples doing something</u>. Their <u>wearings</u>, immersed in something.
-
-## 事物罗列句 
-1. 对比型：(Admist a 场景), A and B are accentuated/highlighted by the contrasting C.  
-Their characters(widely open mouth and sharp teeth)/some other matters are accentuated/highlighted by the contrasting harmonious and tranquil background surrounding them.
-2. 罗列型：Additionally, A, B, C work together harmoniously / form a backdrop / provide a gentle backdrop.  
-The <u>foreground/mid-ground/background elements</u> work together harmoniously, evoking a sense of <u>vibrancy/prosperity</u> / creating an ambience of intensity.
-3. The setting in which the <u>subjects</u> are placed provides context for their action. givinh insight into their lifestyle /situation.
-4.  无事物：It seems that -> I speculate that / It is probable that
-
-## 归纳句
-- creating a humorous and adorable tableau agianst the backdrop of something.
-- creating an atmosphere / ambience of intensity.
-- adding a exciting / playful and creative atmosphere to the urban setting.
-- contributing to the overall harmony of the image.
-- evoking a sense of <u>vibrancy/prosperity</u>  
-- envokes <u>the attention of road safety / environmental protection</u>.
-
-## 描述扩展
-- This picture reminds me of my own exprience. If my memory serves me right, when I was ...
-- In brief, this picture is really informative, which evokes my motivation of hard work.
-
-# 词汇
-> 1. 高级词汇 
-> 2. 具体生动的词汇  
-
 ## 颜色
 - snowy white 雪白
 - ivory white 
@@ -55,7 +18,6 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - purple -> violet 
 
 ## 描写环境 
-- There is barely a cloud in the sky.
 - obscure sky 阴沉的天气 
 - trees 常用修饰 -> thriving trees 生机勃勃的树
 - snow-capped mountain 雪山
@@ -67,19 +29,16 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - strewn with litter 布满垃圾
 - The street is lined with trees 一排行道树
 - lush green grass and blooming flowers / vibrant wildflowers
-- The sun is a golden orb casting its warm glow over the landscape. 
-- The clouds are like soft cotton balls.
-- Entering the gate, you will be immediately impressed by the vast open water, which is really relaxing/unwinding/enjoyable. Walking along the path, you will see sun-blocking trees and rolling green fields, which is truely picturesque.
-- The garden is bathed in warm sunlight, with a clear blue sky overhead.
-- The vibrant colors of the flowers create a chillful and lively atmosphere, while the lovely puppy's playful antics bring a sense of joy and happiness to the scene.
-- The overall feeling of this scene is one of tranquility and harmony with nature.
 
 ## 人物情绪
-- calm -> composure沉稳的
+- calm -> composure沉稳的  
+    > It seems that men with traditional views of masculinity are more likely to suppress outward emotions and to fear emotions, supposedly because such feelings may lead to a loss of composure.  
 - serious -> austere严峻的 
-- angry -> indignated 
+- angry -> indignant 
 - scared -> intimidated 害怕
 - worried -> apprehensive 
+- cloudy -> 愁容满面
+- frowning -> 不满的,皱着眉头
 - distressed 苦恼的
 - disappointed -> crestfallen
 - aggrieved 委屈的
@@ -89,7 +48,8 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - tallish / shortlish
 - skinny  slender(苗条slim and tall)  medium-built  plump 丰满的  well-built  overweight   fat(带贬义)
 - 苗条的身材 slender figure
-- board-shouldered
+- muscular and ripped  肌肉线条明显
+- board-shouldered  
 - newly-born baby / infant  toddler  preschooler  adolescent  teenager  youth  old man -> elderly / senior 长者
 - during adolescence 
 - in her early/ mid /late thirties 三十多岁的
@@ -135,35 +95,34 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 - salt and pepper hair 花白的头发 gray hair (不能用white)
 - graying population 老龄人口 stay in the pink 保持健康状态
 
-## 其他
-- cars -> vehicles 
-- high buildings -> skyscrapers 摩天大楼
-- a hustle and bustle of the urban life 城市生活的喧嚣
-- park -> botanic garden 植物园
-- amusement park 游乐园
-- entertainment complex 娱乐室
-- cushion 软垫
-- steep, rocky cliff 峭壁
-- exquisite and delicate store selling souvenirs and gadgets 精品店  
-- good -> fabulous
-- many -> numerous
-- big -> enormous / magnificent雄伟壮丽 / vast / immense巨大huge giant 
-- old -> rundown and derelict 废弃的 / chabby 破旧的
-- ugly -> hideous / spoil the view 
-- boring -> tedious
-- pure -> pristine (pristine white sand)
-- relax -> unwind / wind down / chill out 
-- sip with a straw 
-- splash 洒
+## 互动听力
+- sought the sincere counsel 
+- erudite mentor 博学的导师 
+- classmate with ethusiasum and expertise
 
-# 单词
 | - | - | - |
 |----|----|----|
+| cars | | vehicles |
+| high buildings | | skyscrapers摩天大楼 / mansion大厦 |
+| 城市生活的喧嚣 | | a hustle and bustle of the urban life |
+| park | | botanic garden |
+| 游乐园 | | amusement park |
+| 娱乐室 | | entertainment complex |
+| 峭壁 | | steep, rocky cliff  |
+| 精品店 | | exquisite and delicate store selling souvenirs and gadgets |
+| good | | fabulous |
+| many | | numerous |
+| big | | enormous / magnificent雄伟壮丽 / vast / immense巨大huge giant  |
+| ugly | | hideous / spoil the view |
+| boring | | tedious |
+| pure | | pristine (pristine white sand) |
+| relax | | unwind / wind down / chill out |
+| 用吸管吸 | | sip with a straw  |
 | 洒 动词 | | splash |
 | pure | | pristine |
 | 废弃的 | | rundown and derelict |
+| 破旧的 | | chabby |
 | 软垫 | | cushion |
-| park | | botanic garden |
 | 连帽衫 | | hoodie |
 | 苗条的 | | slender |
 | 丰满的 | | plump |
@@ -258,6 +217,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 发挥作用 | | exert effect |
 | 忙于 | | get so caught up in doing sth |
 | 行使权利去投票 | | exercise the right to vote |
+| 侵害某人的权利 | | infringe upon one's right |
 | 卖冰淇淋饮料和矿泉水的摊位 | | stall selling ice-cream, beverages as well as mineral water |
 | 行人 | | pedestrain |
 | 斑马线 | | zebra crossing |
@@ -343,7 +303,7 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 报刊亭 | | kiosk |
 | prestige | | 声望 |
 | 面对 | | be confronted with |
-| 灵感 / 汗水 | | inspiration / perspiration  |
+| 灵感 / 汗水 / 志向;抱负 | | inspiration / perspiration / aspiration |
 | thrilled | | 兴奋,激动的 |
 | refresh | | rejuvenate |
 | 乏味的例行公事 | | dull routine |
@@ -360,120 +320,45 @@ The <u>foreground/mid-ground/background elements</u> work together harmoniously,
 | 慷慨 | | generosity |
 | 足智多谋的 | | resourceful |
 | 克服拖延症 | | overcome procrastination |
-| endeavor | | 努力 |
+| endeavor | | strive |
 | 品牌形象和市场竞争力 | | brand image and market competitiveness |
 | ethics | | morality |
 | commitment fulfillment ability | | 履行承诺的能力 |
 | 新陈代谢 | | metabolism |
 | 过多的 | | excessive |
+| 古怪的 | | unusual and grotesque |
+| 无精打采的 | | listless |
+| mitigate | | 减轻,缓和 |
+| a multitude of | | 大量的;大批的 |
+| 前所未有的 | | unprecedented |
+| have a try | | make more attempts |
+| 鼓起勇气 | | summon my courage |
+| 奇迹 | | miracle |
+| (面对困难)有韧性的 / 韧性 | | resilient / resilience |
+| 逆境 | | adversity |
+| pinnacle | | 顶峰 |
+| 毁掉整个假日 | | spoil the holiday |
+| 带薪休假 | | paid-off holiday |
+| 劳动节 | | Labour's Day |
+| harmful | | detrimental |
+| bask | | 晒太阳 |
+| decorate | |  |
+| decorate | | adorn |
+| enjoy | | relish |
+| 班长 | | monitor |
+| 将心比心 | | put oneself in other people's shoes |
+| instill | | 灌输 |
+| 恶意的 | | malicious |
+| 勤奋的 | | diligent |
+| 内向 / 外向 | | introverted / extroverted |
+| 久坐的生活习惯 | | sedentary lifestyle |
+| 自满的,自鸣得意的 | | complacent |
 |  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
+|  | |  |
 
-
-# 口语
-## 练习方式
-1. 口语稿
-2. 修改
-3. 复述
-4. 限时即兴表达
-
-## 个人经历类：人设
-
-I'd like to talk about
-
-The kid in the neighborhood kept shouting and running in the midnight.
-
-I worked my tail off. 我拼命工作   
-I was worn out. 我累坏了  
-I never got a change to relax and unwind. 没有机会休息  
-I wish I could go on a vacation in Hawaii, lying on the beach, touching the soft sand and feeling the salty breeze  
-It would be a fantastic escape from a hustle and bustle of the urban life.  
-
-I had a tight schedule and I stayed up late frequently. 我经常熬夜  
-I had a mountain piles of homework and I kept doing it day in and day out.  
-I told my mom I went to school but I sneaked out of the class and wandered around on the street.   
-I lost the awareness of time elapse and I didn't notice it was time to go back until the sun went down behind the mountains.  
-The reason why I lied is I need a temporary escape badly.    
-
-release my pressure  
-
-## 个人经历类：留学
-
-## 现象解释类  
-I'm not exactly sure about ...  
-- 分类描述
-The differences lie in many aspects   
-There are numerous ... . I'd like to talk about a specific one related with   
-- 按时间顺序对比
-- 转化成个人经历类
-
-## 价值判断类  
-... benefit people's lives in a lot of ways.
-- 长期 / 短期 
-- 个人 / 群体
-- 身体 / 心理
-- 外貌 / 思想
-- 钱 / 时间  
-Pamper yourself with your partner/friends.
-
-
-# 作文
-
-## 格式
-1. 缩进式：段首行缩进4空格
-2. 齐头式：段首不缩进，段落间隔一空行
-
-## 互动听力总结 
-- sought the sincere counsel 
-- erudite mentor 博学的导师 
-- classmate with ethusiasum and expertise
-
-## 作文开头
-- It is incontrovertible that  无可争议地, ...
-- The primary impetus for this perspective stems from ...
-
-## 优缺点 
-- As the proverb goes: "Every coin has two sides."
-- advantages and disadvantages 
-- merits and demerits
-- benefits and shortcomings/drawbacks
-- On the one hand, ... While on the other hand, its shortcomings should not be neglected / ignored...
-- In brief, there are both benefits and shortcomings of ... 
-### Being a Leader  
-- pros
-    - Being a leader means an individual should undertake more responsibility and simultaneously receive more prestage/fame.  
-    - A competent/qualified leader should poccess the capability of solving different kinds of issues independently, that is to say leaders have to master a wide range of knowledge such as executive management, communication skills as well as judgement.  
-- cons 
-    - They are confronted with fierce competition and work under great pressure, so they have to spend too much time and energy on their job and they cannot spare enough time for their family.
-### 运动 
-- pros  
-    - Physical exercises can improve blood circulation, speeding up the supply of nutrients and oxygen to every part of the body and the removal of waste from the blood through sweating and exhalation. 
-    - Physical exercises can promote healthy metabolism. It helps with the digestion and absorption of food, thus giving the exerciser a good eppetite. 
-    - Physical exercises can help consume excessive fat in the body, preventing people from putting on too much weight. thue keeping them in good shape.
-    - After physical exercises we usually need a good rest and a sound sleep at night, refreshing us for the following day's work.
-### 阅读
-- pros
-    - Reading for wisdom, just like exercise to the body. 
-    - The more we read, the more that we found we are ignorant.
-    - As Francis Becon said: "Reading makes a full man." Reading can make people more fulfilling, rich and knowledgeable, so that people can train their minds and improve their realm.
-    - Reading can cultivate sentiment. When life is frustrated or need help, reading will make the mood suddenly open and make people feel excited/thrilled.
-    - Reading can improve people's concentration, make it easier to concentrate on one thing and keep the brain sharp.
-    - Reading can make people relieve stress, thus calming their minds.
-    - Reading can improve one' memory and help to prevent mental decline.
-    - Reading can enlarge people's vocabulary and improve writing skills as well.
-### 旅游
-- pros 
-    - 
-
-
-
-## 人物
-- don't put off things until tomorrow what should be done today.
-### politician 邓小平
-### 古代：秦始皇
-- 古迹
 
 
