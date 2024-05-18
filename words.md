@@ -6,16 +6,16 @@
 - matallic gray 金属灰
 - shocking red 鲜红
 - scarlet 猩红
-- maroon 红褐色
+- maroon 酒红色
 - camel brown 驼棕色
 - khaki 卡其色
-- beige 米色
+- beige 浅米色
 - moss green 苔绿色 (emerald green 鲜绿色/翠绿)
 - dark green 碧绿
 - aquamarine blue 蓝绿
 - navy blue 藏蓝色
 - lavender 浅紫色/淡紫色/薰衣草
-- purple -> violet 
+- purple -> violet / mauve
 
 ## 描写环境 
 - obscure sky 阴沉的天气 
@@ -27,20 +27,17 @@
 - construction site 建筑工地 -> male construction workers (男)建筑工人
 - plagued with smoke 烟雾弥漫
 - strewn with litter 布满垃圾
-- The street is lined with trees 一排行道树
 - lush green grass and blooming flowers / vibrant wildflowers
 
 ## 人物情绪
-- calm -> composure沉稳的  
-    > It seems that men with traditional views of masculinity are more likely to suppress outward emotions and to fear emotions, supposedly because such feelings may lead to a loss of composure.  
-- serious -> austere严峻的 
+- serious -> austere 严峻的 
 - angry -> indignant 
 - scared -> intimidated 害怕
 - worried -> apprehensive 
 - cloudy -> 愁容满面
 - frowning -> 不满的,皱着眉头
 - distressed 苦恼的
-- disappointed -> crestfallen
+- disappointed -> crestfallen 垂头丧气
 - aggrieved 委屈的
 - unwilling -> reluctant 
 
@@ -50,7 +47,7 @@
 - 苗条的身材 slender figure
 - muscular and ripped  肌肉线条明显
 - board-shouldered  
-- newly-born baby / infant  toddler  preschooler  adolescent  teenager  youth  old man -> elderly / senior 长者
+- newly-born baby / infant  toddler  preschooler  adolescent  teenager  juvenile  youth  old man -> elderly / senior 长者
 - during adolescence 
 - in her early/ mid /late thirties 三十多岁的
 - elegant and graceful ladies 形容女性
@@ -62,6 +59,7 @@
 - sleeveless top 无袖上装
 - worn clothes -> 磨损的衣服 / shabby clothes -> 破旧的衣服
 - trousers 长裤
+- jeans 牛仔裤
 - neat 整齐的 / untidy 不整齐的
 - wearing jewelry
 - bracelet 手镯
@@ -71,7 +69,7 @@
 - The body language of the people in this picture conveys ..., adding to the overall ... of the picture.
 
 ## 人物面部
-- bald 秃
+- bald 秃 / bold 大胆的
 - parted on the right side / middle 分头
 - curly hair 自来卷
 - wavy hair 烫卷发
@@ -80,13 +78,14 @@
 - thick hair / eyebrow 浓密的头发/眉毛
 - blonde hair and bluish 浅蓝色 eyes 金发碧眼
 - twinkling eyes 
-- bushy eyebrows
+- bushy/thick eyebrows
 - double eyelids
 - long eyelashes
 - glowing face 有光泽的脸 
 - with two dimples in her chubby face 胖嘟嘟的脸上有2个小酒窝
 - with spots 带斑点
 - straight nose 
+- unshaven / clean-shaven 
 - double chin 
 - made-up
 - adorable
@@ -105,14 +104,15 @@
 | cars | | vehicles |
 | high buildings | | skyscrapers摩天大楼 / mansion大厦 |
 | 城市生活的喧嚣 | | a hustle and bustle of the urban life |
+| hurly-burly / hustle-bustle | | 喧嚣 |
 | park | | botanic garden |
 | 游乐园 | | amusement park |
 | 娱乐室 | | entertainment complex |
-| 峭壁 | | steep, rocky cliff  |
 | 精品店 | | exquisite and delicate store selling souvenirs and gadgets |
 | good | | fabulous |
+| very | | perfectly / awfully |
 | many | | numerous |
-| big | | enormous / magnificent雄伟壮丽 / vast / immense巨大huge giant  |
+| big | | enormous / magnificent spectacular splendid / vast / immense巨大huge giant  |
 | ugly | | hideous / spoil the view |
 | boring | | tedious |
 | pure | | pristine (pristine white sand) |
@@ -176,7 +176,7 @@
 | aurora | | 极光 |
 | precipitous | | 险峻的 |
 | calcium | | 钙 |
-| adventive | | 外来的，非本土的 |
+| exotic / adventive | | 外来的，非本土的 |
 | analog / analogous | | 模拟 / 类似的 |
 | bulk | | 体积，容量 |
 | decimate | | 大批杀害，大量毁灭 |
@@ -248,7 +248,7 @@
 | colony | | 殖民地 |
 | 小丑 | | clown |
 | 扫帚 | | broom |
-| 棚子, 罩棚 | | canopy |
+| 棚子, 罩棚 | | canopy used as sunshade / rain shade |
 | insomnia | | 失眠 |
 | fuss | | 小题大做,大惊小怪 |
 | vinegar | | 醋 |
@@ -306,6 +306,7 @@
 | 灵感 / 汗水 / 志向;抱负 | | inspiration / perspiration / aspiration |
 | thrilled | | 兴奋,激动的 |
 | refresh | | rejuvenate |
+| juvenile delinquency | | 青少年犯罪 |
 | 乏味的例行公事 | | dull routine |
 | imitate | | 模仿 |
 | conducive | | beneficial |
@@ -328,7 +329,7 @@
 | 过多的 | | excessive |
 | 古怪的 | | unusual and grotesque |
 | 无精打采的 | | listless |
-| mitigate | | 减轻,缓和 |
+| 减轻,缓和 | | mitigate / moderate |
 | a multitude of | | 大量的;大批的 |
 | 前所未有的 | | unprecedented |
 | have a try | | make more attempts |
@@ -342,7 +343,6 @@
 | 劳动节 | | Labour's Day |
 | harmful | | detrimental |
 | bask | | 晒太阳 |
-| decorate | |  |
 | decorate | | adorn |
 | enjoy | | relish |
 | 班长 | | monitor |
@@ -353,6 +353,24 @@
 | 内向 / 外向 | | introverted / extroverted |
 | 久坐的生活习惯 | | sedentary lifestyle |
 | 自满的,自鸣得意的 | | complacent |
+| 出现,到来 | | advent |
+| accelerate | | expedite |
+| 被病毒感染 | | get infected by virus |
+| 精神的枷锁 | | spiritual shackle |
+| inexplicably | | 令人费解的;无法解释的 |
+| 商业头脑 | | business savvy |
+| 悠闲的海滨城市 | | laid-back coastal city |
+| 美食的乐趣 | | culinary delight |
+| 大饱眼福 | | feast my eyes on |
+| 嘉年华 | | carnival |
+| 礼貌 | | courtesy |
+| 象征性的 | | emblematic |
+| 工作疏忽 / ne'glect | | work 'negligence |
+| 直率愚钝的 | | blunt |
+| 小气的 | | stingy |
+| charming | | glamorous |
+| 总体印象 | | general impression |
+|  | |  |
 |  | |  |
 |  | |  |
 |  | |  |
